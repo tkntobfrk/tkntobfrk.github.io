@@ -1,6 +1,6 @@
 # tkntobfrk.github.io
 
-#Documentation for Juiry project create repos for these
+#Documentation for Juiry project create repos for these - complete%
 
 1. "auth0 twitter login to aws cognito through ionic app" 90%
 2. "dynamodb db with cognito auth" 90%
