@@ -2,10 +2,10 @@
 
 #Documentation for Juiry project create repos for these
 
-#"auth0 twitter login to aws cognito through ionic app"
-#"dynamodb db with cognito auth"
-#"s3 upload through mobile app with cognito auth"
-#"nodejs twit search"
-#"nodejs lookup db info"
-#"admin approve app"
-#"xui xsplit media integration w\ angular"
+1. "auth0 twitter login to aws cognito through ionic app" 90%
+2. "dynamodb db with cognito auth" 90%
+3. "s3 upload through mobile app with cognito auth" 90%
+4. "nodejs twit search on ec2" 80%
+5. "nodejs lookup db info" 80%
+6. "admin approve app" 10%
+7. "xui xsplit media integration w\ angular" 30%
